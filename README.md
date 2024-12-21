@@ -1,0 +1,2 @@
+# ASCLog2CSV
+主にCANalyzerで生成されたASC LogファイルからCSVを生成するツールです。いい感じの機能を積みたい。
